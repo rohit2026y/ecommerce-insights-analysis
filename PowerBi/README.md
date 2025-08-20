@@ -2,8 +2,6 @@
 
 This section provides a detailed guide on setting up and using the Power BI dashboards created for the E-Commerce Data Analytics Project. Follow the steps below to connect to the dataset, create visualizations, and interact with the dashboards to gain insights into sales and net profit.
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/caafebd7-5d0a-48aa-bb36-38863292ae51/0af890d8e46708602895?experience=power-bi&bookmarkGuid=a402f9fac498fa6893c5
-
 ### Setup and Data Connection
 
 1. **Create a View in MySQL**:
